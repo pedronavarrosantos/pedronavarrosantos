@@ -12,25 +12,29 @@
 <div align="center">
   <img alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;
   <img alt="Git" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> &nbsp;&nbsp;
-  <img alt="GitHub" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: invert(1);">
 </div>
+
+---
+
+### GitHub Summary 📊
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedronavarrosantos&theme=nord_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedronavarrosantos&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedronavarrosantos&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedronavarrosantos&theme=nord_dark" width="32%" />
+</p>
 
 ---
 
 ### GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedronavarrosantos&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronavarrosantos&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedronavarrosantos&theme=react-dark" />
-</p>
-
-<!-- Animação da Cobrinha (Snake) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pedronavarrosantos/pedronavarrosantos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
