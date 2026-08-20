@@ -12,7 +12,7 @@
 <div align="center">
   <img alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;
   <img alt="Git" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> &nbsp;&nbsp;
-  <img alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: invert(1);">
+  <img alt="GitHub" height="50" src="https://cdn.simpleicons.org/github/white">
 </div>
 
 ---
