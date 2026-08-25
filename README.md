@@ -1,5 +1,7 @@
 # Pedro Nichollas Navarro dos Santos 🇧🇷
 
+🔭 I’m currently working on [BayArea](https://www.linkedin.com/company/bay-area-df/posts/?feedView=all)
+
 ### How to reach me? 🔎
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro_Nichollas_Navarro-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/pedro-nichollas-navarro-dos-santos-b0b1a9239)
