@@ -33,14 +33,6 @@
 
 ---
 
-### GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedronavarrosantos&theme=react-dark" />
-</p>
-
----
-
 <div align="center">
   <i>"The only way to do great work is to love what you do." 🖥️💾</i>
 </div>
