@@ -16,6 +16,7 @@
   <img alt="Git" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> &nbsp;&nbsp;
   <img alt="GitHub" height="50" src="https://cdn.simpleicons.org/github/white">
   <img alt="PostgreSQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="Flask" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </div>
 
 ---
