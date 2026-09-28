@@ -16,10 +16,10 @@
   <img alt="Git" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> &nbsp;&nbsp;
   <img alt="GitHub" height="50" src="https://cdn.simpleicons.org/github/white">
   <img alt="PostgreSQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img alt="Flask" height="50" src="https://cdn.simpleicons.org/flask/white">
-  <img alt="JavaScript" height="50" src="https://cdn.simpleicons.org/javascript/white">
-  <img alt="CSS3" height="50" src="https://cdn.simpleicons.org/css3/white">
-  <img alt="HTML5" height="50" src="https://cdn.simpleicons.org/html5/white">
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask">
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5">
 </div>
 
 ---
