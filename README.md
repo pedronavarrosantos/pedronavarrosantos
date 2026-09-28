@@ -17,6 +17,9 @@
   <img alt="GitHub" height="50" src="https://cdn.simpleicons.org/github/white">
   <img alt="PostgreSQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img alt="Flask" height="50" src="https://cdn.simpleicons.org/flask/white">
+  <img alt="JavaScript" height="50" src="https://cdn.simpleicons.org/javascript/white">
+  <img alt="CSS3" height="50" src="https://cdn.simpleicons.org/css3/white">
+  <img alt="HTML5" height="50" src="https://cdn.simpleicons.org/html5/white">
 </div>
 
 ---
